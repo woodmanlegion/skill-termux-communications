@@ -1,8 +1,8 @@
 {
   "name": "skill-termux-communications",
   "version": "2026.08.29_01",
-  "description": "Termux communication and device control APIs skill for OpenClaw — SMS, calls, contacts, notifications, sensors, MMS.",
-  "keywords": ["pi-package", "termux", "android", "sms", "mms", "communications"],
+  "description": "Termux device control APIs skill for OpenClaw — calls, contacts, notifications, sensors, media capture. SMS/MMS moved to termux-sms.",
+  "keywords": ["pi-package", "termux", "android", "calls", "contacts", "sensors"],
   "license": "MIT",
   "pi": {
     "skills": ["./"]
